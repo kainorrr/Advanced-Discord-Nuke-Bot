@@ -1,2 +1,2 @@
-prefix = 'prefix'
-token = "bots token"
+prefix = '.'
+token = "xxx"
